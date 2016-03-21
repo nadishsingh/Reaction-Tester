@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    color: red;
+}
+
+#container {
+    width: 60%;
+    margin: 40px auto 0;
+    padding: 10px;
+    box-sizing: border-box;
+    background: url('paper.png') top left repeat;
+    box-shadow: 0 10px 5px -8px #7cf;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    text-align: center;
+
+}
+
+
+#box {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    display: none;
+    position: relative;
+}
