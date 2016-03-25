@@ -27,7 +27,7 @@ function randomColour() {
                 tmar=tmar*300;
                 
                 var lmar=Math.random();
-                lmar=lmar*500;
+                lmar=lmar*750;
                 
                 document.getElementById("box").style.marginTop= tmar +"px";
                 document.getElementById("box").style.marginLeft= lmar +"px";
